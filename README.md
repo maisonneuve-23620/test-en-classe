@@ -1,4 +1,4 @@
 # test-en-classe
 
 Bonjour, je suis Marc-André.
-Bonjour, je suis Erick-Fataki
+Encore moi, Marc-André. Mais aussi Erick-Fataki.
