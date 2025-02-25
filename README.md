@@ -1,4 +1,3 @@
 # test-en-classe
-
 Bonjour, je suis Marc-André.
-Bonjour, je suis Guillaume.
+Encore moi, Marc-André. Mais aussi Erick-Fataki, Sébastien Malo Jean et Guillaume.
