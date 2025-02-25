@@ -1,4 +1,3 @@
 # test-en-classe
-
 Bonjour, je suis Marc-André.
-Encore moi, Marc-André. Mais aussi Erick-Fataki et Sébastien Malo Jean.
+Encore moi, Marc-André. Mais aussi Erick-Fataki, Sébastien Malo Jean et Guillaume.
